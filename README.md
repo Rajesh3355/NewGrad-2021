@@ -143,3 +143,4 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Square](https://www.smartrecruiters.com/Square/743999731392942)|Redwood City, CA or Remote|AI Engineer|
 |[Cambly](https://jobs.lever.co/cambly/4ab06944-8454-4e71-832d-387f41cede68)|San Francisco, CA|Full-Stack Software Engineer|
 |[ford](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5186&PageType=searchResults&SearchType=linkquery&LinkID=4003161#jobDetails=521865_5186)|Dearborn|Analyst|
+|[T.Rowe Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Entry-Level-Software-Engineer--Front-End--JavaScript---React-_50993?source=Linkedin)|Owings Mills, MD|Entry Level Software Engineer - Javascript+React|
